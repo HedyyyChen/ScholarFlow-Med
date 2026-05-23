@@ -3,3 +3,4 @@ __pycache__/
 .agents/
 .claude/
 skills-lock.json
+zhihu_user_data_dir/
